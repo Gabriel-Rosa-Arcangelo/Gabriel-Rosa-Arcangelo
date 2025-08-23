@@ -1,11 +1,9 @@
-<!-- Banner / headline -->
 <h1 align="center">Gabriel Rosa Arcangelo</h1>
 <p align="center">
   <b>Django & Python Developer • Automating Workflows, APIs & Reports</b><br/>
   Open to remote freelance • English & Portuguese
 </p>
 
-<!-- Badges principais -->
 <p align="center">
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></a>
   <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff"></a>
@@ -52,24 +50,22 @@ Focused on **Django, DRF, Pandas, Celery, PostgreSQL, Docker** — from prototyp
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rosa-Arcangelo&layout=compact&langs_count=8"/>
 </p>
 
-<!-- Streak (opcional) -->
 <p>
   <img height="165" src="https://streak-stats.demolab.com/?user=Gabriel-Rosa-Arcangelo"/>
 </p>
 
 ---
 
-### Recent activity & metrics (auto)
-<!-- metrics.svg será gerado pelo workflow abaixo -->
+### Metrics
 <p>
-  <img src="/metrics.svg" alt="Metrics overview"/>
+  <img src="https://raw.githubusercontent.com/Gabriel-Rosa-Arcangelo/Gabriel-Rosa-Arcangelo/main/metrics.svg" alt="Metrics overview"/>
 </p>
 
-### Snake (fun)
-<!-- a cobra será gerada pelo workflow abaixo -->
+### Snake
 <p>
   <img src="https://raw.githubusercontent.com/Gabriel-Rosa-Arcangelo/Gabriel-Rosa-Arcangelo/output/snake.svg" alt="snake"/>
 </p>
+
 
 ---
 
