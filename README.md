@@ -54,20 +54,6 @@ Focused on **Django, DRF, Pandas, Celery, PostgreSQL, Docker** — from prototyp
   <img height="165" src="https://streak-stats.demolab.com/?user=Gabriel-Rosa-Arcangelo"/>
 </p>
 
----
-
-### Metrics
-<p>
-  <img src="https://raw.githubusercontent.com/Gabriel-Rosa-Arcangelo/Gabriel-Rosa-Arcangelo/main/metrics.svg" alt="Metrics overview"/>
-</p>
-
-### Snake
-<p>
-  <img src="https://raw.githubusercontent.com/Gabriel-Rosa-Arcangelo/Gabriel-Rosa-Arcangelo/output/snake.svg" alt="snake"/>
-</p>
-
-
----
 
 ### Featured projects
 - **Excel → PDF Automation** — Upload, validation, **automated PDF reports**.  
