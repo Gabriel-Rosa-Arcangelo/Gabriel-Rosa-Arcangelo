@@ -1,5 +1,5 @@
 <!-- Banner / headline -->
-<h1 align="center">Gabriel D’Angelo</h1>
+<h1 align="center">Gabriel Rosa Arcangelo</h1>
 <p align="center">
   <b>Django & Python Developer • Automating Workflows, APIs & Reports</b><br/>
   Open to remote freelance • English & Portuguese
@@ -27,7 +27,7 @@ Focused on **Django, DRF, Pandas, Celery, PostgreSQL, Docker** — from prototyp
 - 💬 Ask me about: Django, DRF, Celery, ReportLab, Docker, CI/CD
 
 **Connect:**  
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/) • [Email](mailto:YOUR_EMAIL) • [Website](https://YOUR_SITE/)
+[LinkedIn](https://www.linkedin.com/in/gabriel-rosa-arcangelo-aa1572165/) • [Email](mailto:dangelodevstudio@gmail.com) • [Website](https://dangelodevstudio.com)
 
 ---
 
@@ -48,13 +48,13 @@ Focused on **Django, DRF, Pandas, Celery, PostgreSQL, Docker** — from prototyp
 
 ### GitHub stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Rosa-Arcangelo&show_icons=true&hide_title=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rosa-Arcangelo&layout=compact&langs_count=8"/>
 </p>
 
 <!-- Streak (opcional) -->
 <p>
-  <img height="165" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Gabriel-Rosa-Arcangelo"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@ Focused on **Django, DRF, Pandas, Celery, PostgreSQL, Docker** — from prototyp
 ### Snake (fun)
 <!-- a cobra será gerada pelo workflow abaixo -->
 <p>
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Gabriel-Rosa-Arcangelo/Gabriel-Rosa-Arcangelo/output/snake.svg" alt="snake"/>
 </p>
 
 ---
