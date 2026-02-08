@@ -1,68 +1,84 @@
 <h1 align="center">Gabriel Rosa Arcangelo</h1>
-<p align="center">
-  <b>Django & Python Developer • Automating Workflows, APIs & Reports</b><br/>
-  Open to remote freelance • English & Portuguese
-</p>
 
 <p align="center">
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></a>
-  <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff"></a>
-  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff"></a>
-  <a href="https://fastapi.tiangolo.com/"><img alt="DRF" src="https://img.shields.io/badge/DRF-ff2d20?label=Django%20REST&logo=fastapi&logoColor=fff"></a>
-  <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff"></a>
-  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"></a>
-  <a href="https://render.com/"><img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000"></a>
+  <b>Backend Engineer • Python & Django • APIs • Data Pipelines • Automation</b><br/>
+  Building reliable, data-driven systems for healthcare & lab operations.<br/>
+  Open to remote freelance & long-term collaborations • EN / PT-BR
+</p>
+
+<p align="center">
+  <a href="https://gabrielrosadev.tech/"><img src="https://img.shields.io/badge/Website-gabrielrosadev.tech-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-rosa-arcangelo/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Rosa%20Arcangelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:grosarcangelo@gmail.com"><img src="https://img.shields.io/badge/Email-grosarcangelo@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gabriel-Rosa-Arcangelo&style=flat&color=0A0A0A" alt="profile views"/>
 </p>
 
 ---
 
-### About me
-I build **custom web apps, APIs, and automations** that save teams time and reduce errors.  
-Focused on **Django, DRF, Pandas, Celery, PostgreSQL, Docker** — from prototype to cloud deploy.
+## What I do
+- 🧩 **Backend engineering** with Django / DRF (auth, permissions, pagination, filtering, performance)
+- ⚙️ **Async jobs & automation** with Celery + Redis (ETL, scheduled pipelines, background processing)
+- 📊 **Data workflows** with Pandas (CSV/Excel → validated datasets → reports)
+- 🧾 **Report generation** (PDF/Excel automation for real-world ops)
+- ☁️ **Cloud & deploy** (Docker, PostgreSQL, AWS S3 / Cloudflare R2)
 
-- 🔭 Current: healthcare/biotech apps, data automation (Excel/CSV → PDF)
-- 🚀 Looking for: remote freelance & long‑term collaborations
-- 💬 Ask me about: Django, DRF, Celery, ReportLab, Docker, CI/CD
-
-**Connect:**  
-[LinkedIn](https://www.linkedin.com/in/gabriel-rosa-arcangelo-aa1572165/) • [Email](mailto:dangelodevstudio@gmail.com) • [Website](https://dangelodevstudio.com)
+> I turn complex workflows into **simple, reliable, production-ready systems**.
 
 ---
 
-### Tech stack
-<p>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-</p>
-
----
-
-### GitHub stats
+## Tech Stack
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Rosa-Arcangelo&show_icons=true&hide_title=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rosa-Arcangelo&layout=compact&langs_count=8"/>
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </p>
 
-<p>
-  <img height="165" src="https://streak-stats.demolab.com/?user=Gabriel-Rosa-Arcangelo"/>
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=fff">
+  <img alt="DRF" src="https://img.shields.io/badge/Django%20REST%20Framework-0A0A0A?style=flat&logo=django&logoColor=fff">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff">
+  <img alt="Celery" src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=fff">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=fff">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=fff">
 </p>
 
+---
 
-### Featured projects
-- **Excel → PDF Automation** — Upload, validation, **automated PDF reports**.  
-- **Healthcare API (DRF)** — Patients/Reports with JWT auth, pagination, filtering.  
-- **Fullstack Django App** — Auth, CRUD, dashboard, background jobs, deploy.
+## GitHub Stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Rosa-Arcangelo&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rosa-Arcangelo&layout=compact&langs_count=8" />
+</p>
 
-> I turn complex workflows into **simple, automated, production‑ready** systems.
+---
 
+## Featured Projects (pin these)
+- **Excel → PDF Automation** — data validation + automated reporting pipelines  
+- **Healthcare API (Django REST)** — JWT auth, permissions, filtering, pagination  
+- **Async Processing** — Celery/Redis workers for long-running tasks & scheduling  
 
+---
+
+## Let’s connect
+- 🌐 Website: https://gabrielrosadev.tech/
+- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-rosa-arcangelo/
+- ✉️ Email: grosarcangelo@gmail.com
+
+---
+
+<p align="center">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Gabriel-Rosa-Arcangelo/Gabriel-Rosa-Arcangelo/output/snake.svg" />
+</p>
 
 
 
