@@ -54,28 +54,6 @@
 
 ---
 
-## GitHub Stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Rosa-Arcangelo&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rosa-Arcangelo&layout=compact&langs_count=8" />
-</p>
-
----
-
-## Featured Projects (pin these)
-- **Excel → PDF Automation** — data validation + automated reporting pipelines  
-- **Healthcare API (Django REST)** — JWT auth, permissions, filtering, pagination  
-- **Async Processing** — Celery/Redis workers for long-running tasks & scheduling  
-
----
-
-## Let’s connect
-- 🌐 Website: https://gabrielrosadev.tech/
-- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-rosa-arcangelo/
-- ✉️ Email: grosarcangelo@gmail.com
-
----
-
 <p align="center">
   <img alt="snake animation" src="https://raw.githubusercontent.com/Gabriel-Rosa-Arcangelo/Gabriel-Rosa-Arcangelo/output/snake.svg" />
 </p>
