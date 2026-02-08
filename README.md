@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Gabriel-Rosa-Arcangelo/Gabriel-Rosa-Arcangelo/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Gabriel-Rosa-Arcangelo/Gabriel-Rosa-Arcangelo/output/snake-dark.svg" />
 </p>
 
 
