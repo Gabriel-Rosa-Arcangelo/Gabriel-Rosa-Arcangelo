@@ -61,11 +61,13 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Gabriel-Rosa-Arcangelo&layout=compact&theme=dark&bg_color=0A0A0A&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rosa-Arcangelo&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel-Rosa-Arcangelo&show_icons=true&theme=dark&bg_color=0A0A0A&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Rosa-Arcangelo&theme=github-dark-blue&hide_border=true" />
 </p>
+
 
 
