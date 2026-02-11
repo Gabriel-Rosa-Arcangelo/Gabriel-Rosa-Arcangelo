@@ -58,15 +58,10 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/Gabriel-Rosa-Arcangelo/Gabriel-Rosa-Arcangelo/output/snake-dark.svg" />
 </p>
 
-## GitHub Stats
+## GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-Rosa-Arcangelo&langs_count=8&layout=donut&theme=dark&bg_color=0A0A0A&hide_border=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Rosa-Arcangelo&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Rosa-Arcangelo&theme=github-dark-red&hide_border=true" />
 </p>
 
 
