@@ -58,5 +58,10 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/Gabriel-Rosa-Arcangelo/Gabriel-Rosa-Arcangelo/output/snake-dark.svg" />
 </p>
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rosa-Arcangelo&layout=compact&theme=dark&bg_color=0A0A0A&title_color=ffffff&text_color=ffffff&hide_border=true" />
+</p>
 
 
