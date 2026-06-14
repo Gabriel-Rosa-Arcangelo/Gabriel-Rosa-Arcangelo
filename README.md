@@ -18,51 +18,29 @@
 
 ---
 
-## What I do
-- 🧩 **Backend engineering** with Django / DRF (auth, permissions, pagination, filtering, performance)
-- ⚙️ **Async jobs & automation** with Celery + Redis (ETL, scheduled pipelines, background processing)
-- 📊 **Data workflows** with Pandas (CSV/Excel → validated datasets → reports)
-- 🧾 **Report generation** (PDF/Excel automation for real-world ops)
-- ☁️ **Cloud & deploy** (Docker, PostgreSQL, AWS S3 / Cloudflare R2)
-
-> I turn complex workflows into **simple, reliable, production-ready systems**.
+## What I build
+- **Backend systems:** Django / DRF APIs, authentication, permissions, filtering, and OpenAPI documentation
+- **Async workflows:** Celery + Redis jobs, scheduled processing, progress tracking, and operational logs
+- **Data automation:** validated CSV/Excel pipelines and automated PDF/XLSX reports
+- **Delivery foundations:** Docker, PostgreSQL, CI, and S3-compatible artifact storage
 
 ---
 
-## Tech Stack
-<p align="left">
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</p>
+## Featured projects
 
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=fff">
-  <img alt="DRF" src="https://img.shields.io/badge/Django%20REST%20Framework-0A0A0A?style=flat&logo=django&logoColor=fff">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff">
-  <img alt="Celery" src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=fff">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=fff">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=fff">
-</p>
+| Project | Engineering focus | Validation |
+| --- | --- | --- |
+| [LabExportHub](https://github.com/Gabriel-Rosa-Arcangelo/ngs-lab-hub) | NGS sample workflows, async CSV/XLSX/ZIP exports, JWT/RBAC, MinIO presigned URLs | Docker Compose, OpenAPI, 17 backend tests, frontend lint/build CI |
+| [Healthcare API](https://github.com/Gabriel-Rosa-Arcangelo/healthcare-api) | Synthetic patient/sample/result API and background clinical PDF generation | JWT, validated OpenAPI, automated tests and CI |
+| [Excel to PDF Automation](https://github.com/Gabriel-Rosa-Arcangelo/excel-pdf-automation) | Validated spreadsheet ingestion and asynchronous report generation | Docker Compose, automated tests and CI |
+| [Nebula Analytics](https://github.com/Gabriel-Rosa-Arcangelo/nebula-analytics) | JWT-protected analytics API with a React dashboard | Backend tests plus frontend lint/build CI |
 
----
+## Core stack
 
-<p align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Gabriel-Rosa-Arcangelo/Gabriel-Rosa-Arcangelo/output/snake-dark.svg" />
-</p>
+`Python` · `Django` · `Django REST Framework` · `Celery` · `Redis` · `PostgreSQL` · `Docker` · `React` · `TypeScript`
 
-## GitHub Streak
+## Current focus
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Rosa-Arcangelo&theme=github-dark-blue&hide_border=true" />
-</p>
-
-
-
+- Reliable lab and healthcare workflow automation using synthetic, portfolio-safe datasets
+- API design, background processing, artifact delivery, testing, and CI
+- Public projects that demonstrate patterns without exposing client code, data, or business rules
