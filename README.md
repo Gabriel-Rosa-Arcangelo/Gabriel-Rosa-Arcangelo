@@ -31,6 +31,8 @@
 | Project | Engineering focus | Validation |
 | --- | --- | --- |
 | [LabExportHub](https://github.com/Gabriel-Rosa-Arcangelo/ngs-lab-hub) | NGS sample workflows, async CSV/XLSX/ZIP exports, JWT/RBAC, MinIO presigned URLs | Docker Compose, OpenAPI, 17 backend tests, frontend lint/build CI |
+| [Assay Run Orchestrator](https://github.com/Gabriel-Rosa-Arcangelo/assay-run-orchestrator) | Synthetic multi-organization assay runs, state transitions, QC, audit, and async manifests | Docker Compose, validated OpenAPI, 9 automated tests and CI |
+| [Partner Integration Gateway](https://github.com/Gabriel-Rosa-Arcangelo/partner-integration-gateway) | HMAC ingestion, idempotency, normalized events, signed webhooks, and dead-letter tracking | Docker Compose, validated OpenAPI, 8 automated tests and CI |
 | [Healthcare API](https://github.com/Gabriel-Rosa-Arcangelo/healthcare-api) | Synthetic patient/sample/result API and background clinical PDF generation | JWT, validated OpenAPI, automated tests and CI |
 | [Excel to PDF Automation](https://github.com/Gabriel-Rosa-Arcangelo/excel-pdf-automation) | Validated spreadsheet ingestion and asynchronous report generation | Docker Compose, automated tests and CI |
 | [Nebula Analytics](https://github.com/Gabriel-Rosa-Arcangelo/nebula-analytics) | JWT-protected analytics API with a React dashboard | Backend tests plus frontend lint/build CI |
